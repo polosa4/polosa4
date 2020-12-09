@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**polosa4/polosa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Oleg Stelmakh, and I'm a Software Engineer at Perficient, I've been in tech since 2015. I'm from Ukraine and I currently reside in US.
 
-Here are some ideas to get you started:
+<--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
